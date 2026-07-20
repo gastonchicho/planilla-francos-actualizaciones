@@ -1,3 +1,3 @@
-VERSION=1.0.1
+VERSION=1.0.2
 DOWNLOAD_URL=https://github.com/gastonchicho/planilla-francos-actualizaciones/releases/latest/download/Planilla_Francos_Actualizacion.xlsm
-CHANGES=Se agregó el sistema automático de actualizaciones y migración de datos.
+CHANGES=Se corrigió la actualización para evitar planillas duplicadas y cerrar automáticamente la versión anterior.
