@@ -1,3 +1,3 @@
-VERSION=1.0.5
+VERSION=1.0.6
 DOWNLOAD_URL=https://github.com/gastonchicho/planilla-francos-actualizaciones/releases/latest/download/Planilla_Francos_Actualizacion.xlsm
-CHANGES=Se quitaron los meses marzo, abril, mayo, junio
+CHANGES=Correccion de descarga y migracion automatica desde planillas anteriores.
